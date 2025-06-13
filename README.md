@@ -1,10 +1,10 @@
-# <img width="48" height="48" align="center" src='resources/pepperman_things.gif'> Хеллоу.
-Добро пожаловать, наверное? Я не ждал здесь гостей, поэтому тут у меня небольшой творческий беспорядок.
+# <p align="center"><img src="resources/seepy.png" width="100" height="100"><p align="center">Welcome to cheat_r's Junkyard.
+<p align="center">Добро пожаловать, наверное? Я не ждал здесь гостей, поэтому тут у меня (не)большой творческий беспорядок.
 
-Я тут особо ничем не занимаюсь. Никуда не лезу, ничего не делаю. Только разве что делаю [Forwardgram](https://github.com/cheat-r/forwardgram_discord) и [Хелпера](https://github.com/cheat-r/helperbot) забавы ради.
+<p align="center">Я тут делаю всякие штуки на Python (в основном ботов) забавы ради. Хотелось бы чего-нибудь ещё, но мне пока лень.
 
-Активно пишу на Python, ибо других языков я пока не изучал, xdd. Хотя сейчас пытаюсь что-то делать на CSS, а там и до Javascript недалеко...
+<p align="center">Осмотритесь, может быть вам даже что-нибудь приглянется...
 
-Эээ, всё. Больше мне нечего рассказать.
-## посмотрите на этого засранца
-<img src='resources/speed.gif'>
+<p align="center"><img src='resources/пятки.gif'>
+
+<p align="center">(пятки не продаются, простите)
